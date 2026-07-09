@@ -59,6 +59,28 @@ replaced independently.
 
 ---
 
+# Some Screenshots
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/9b1c6e94-a9c6-4810-b47d-0df8c75d5c65" width="100%">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/1c4d727a-cec2-4da0-9d06-20ec80bea4f3" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img width="100%" src="https://github.com/user-attachments/assets/2004cd3d-01bf-4fdf-82ca-5c1689796936" />
+    </td>
+    <td>
+      <img width="100%" src="https://github.com/user-attachments/assets/3c50d8ad-b9af-4616-815a-627cc5bfd71e" />
+    </td>
+  </tr>
+</table>
+
+---
+
 ## Quick start
 
 You'll need a [Gemini API key](https://aistudio.google.com/apikey).
