@@ -1,0 +1,78 @@
+{
+    "imported": [
+        {
+            "created_at": null,
+            "name": "John Doe",
+            "email": "john.doe@gmail.com",
+            "country_code": "+91",
+            "mobile_without_country_code": "9876543210",
+            "company": "TechNova",
+            "city": "Bengaluru",
+            "state": null,
+            "country": null,
+            "lead_owner": "Rahul Sharma",
+            "crm_status": "GOOD_LEAD_FOLLOW_UP",
+            "crm_note": "Requested product demo next week",
+            "data_source": null,
+            "possession_time": null,
+            "description": null
+        },
+        {
+            "created_at": null,
+            "name": "Priya Singh",
+            "email": "priya.singh@gmail.com",
+            "country_code": "+91",
+            "mobile_without_country_code": "9123456780",
+            "company": "Green Homes",
+            "city": "Pune",
+            "state": null,
+            "country": null,
+            "lead_owner": "Anjali Mehta",
+            "crm_status": "DID_NOT_CONNECT",
+            "crm_note": "Busy, call after 6 PM",
+            "data_source": null,
+            "possession_time": null,
+            "description": null
+        },
+        {
+            "created_at": null,
+            "name": "Arjun Patel",
+            "email": "arjun.patel@gmail.com",
+            "country_code": null,
+            "mobile_without_country_code": null,
+            "company": "Skyline Infra",
+            "city": "Ahmedabad",
+            "state": null,
+            "country": null,
+            "lead_owner": "Rahul Sharma",
+            "crm_status": "SALE_DONE",
+            "crm_note": "Deal closed successfully",
+            "data_source": null,
+            "possession_time": null,
+            "description": null
+        },
+        {
+            "created_at": null,
+            "name": "Neha Kapoor",
+            "email": null,
+            "country_code": "+91",
+            "mobile_without_country_code": "9988776655",
+            "company": "Urban Spaces",
+            "city": "Delhi",
+            "state": null,
+            "country": null,
+            "lead_owner": "Karan Verma",
+            "crm_status": "BAD_LEAD",
+            "crm_note": "Not interested",
+            "data_source": null,
+            "possession_time": null,
+            "description": null
+        }
+    ],
+    "skipped": [],
+    "totals": {
+        "totalRows": 4,
+        "totalImported": 4,
+        "totalSkipped": 0
+    }
+}
